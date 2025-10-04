@@ -1,6 +1,7 @@
 ﻿using DesafioPOO.Models;
 
 // TODO: Realizar os testes com as classes Nokia e Iphone
+// IMPLEMENTADO!!
 Console.WriteLine("Smartphone Nokia:");
 Nokia nokia = new Nokia(numero: "12344321", modelo: "Nokia 1100", imei: "123321", memoria: 128);
 nokia.Ligar();
